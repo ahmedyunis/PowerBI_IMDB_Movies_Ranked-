@@ -11,6 +11,9 @@ Desktop to Get Data into Power BI
 
 Get Data from Web >> Provide web page URL for the top 100 sold movies all the time
 
+*Use a Query as a Reference* and *Append Queries* to combine queries into this new query
+
+
 
 
 
