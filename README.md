@@ -5,6 +5,12 @@ Desktop to Get Data into Power BI
 
 > First Worldwide gross sales information of movies http://www.boxofficemojo.com/alltime/world/
 
-> Second Top 250 movies ranked by people in IMDB website http://www.imdb.com/chart/top
+> Second Top 250 movies ranked by people in IMDB website http://www.imdb.com/chart/top 
+
+## Start by getting gross sales data
+
+Get Data from Web >> Provide web page URL for the top 100 sold movies all the time
+
+
 
 
