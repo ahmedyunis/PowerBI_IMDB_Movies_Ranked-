@@ -11,8 +11,17 @@ Desktop to Get Data into Power BI
 
 Get Data from Web >> Provide web page URL for the top 100 sold movies all the time
 
-*Use a Query as a Reference* and *Append Queries* to combine queries into this new query
+*Use a Query as a Reference* and *Append Queries* to combine queries into this new query 
 
+
+By usieng the Query Editor we can add a new source of data (IMDB User Rating) also we can apply many of Transformation and Editing to these Data as: 
+
+ Rename the query, Remove Columns, Split Column, Replace Values Trim
+
+
+*Final Merge*
+ we can now final merge the two dataset together to see how best-selling
+movies are among top user rated films (Merge Queries is equivalent to Join in SQL or database terminology) 
 
 
 
